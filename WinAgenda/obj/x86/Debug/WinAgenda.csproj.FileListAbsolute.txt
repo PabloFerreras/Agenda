@@ -1,0 +1,73 @@
+C:\Users\Juanjo\AppData\Local\Temporary Projects\WinAgenda\bin\Debug\WinAgenda.exe
+C:\Users\Juanjo\AppData\Local\Temporary Projects\WinAgenda\bin\Debug\WinAgenda.pdb
+C:\Users\Juanjo\AppData\Local\Temporary Projects\WinAgenda\obj\x86\Debug\WinAgenda.Form1.resources
+C:\Users\Juanjo\AppData\Local\Temporary Projects\WinAgenda\obj\x86\Debug\WinAgenda.Properties.Resources.resources
+C:\Users\Juanjo\AppData\Local\Temporary Projects\WinAgenda\obj\x86\Debug\WinAgenda.csproj.GenerateResource.Cache
+C:\Users\Juanjo\AppData\Local\Temporary Projects\WinAgenda\obj\x86\Debug\WinAgenda.exe
+C:\Users\Juanjo\AppData\Local\Temporary Projects\WinAgenda\obj\x86\Debug\WinAgenda.pdb
+C:\Users\Juanjo\documents\visual studio 2010\Projects\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.exe
+C:\Users\Juanjo\documents\visual studio 2010\Projects\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.pdb
+C:\Users\Juanjo\documents\visual studio 2010\Projects\WinAgenda\WinAgenda\bin\Debug\WinAgenda.exe
+C:\Users\Juanjo\documents\visual studio 2010\Projects\WinAgenda\WinAgenda\bin\Debug\WinAgenda.pdb
+C:\Users\Juanjo\documents\visual studio 2010\Projects\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.Form1.resources
+C:\Users\Juanjo\documents\visual studio 2010\Projects\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.Properties.Resources.resources
+C:\Users\Juanjo\documents\visual studio 2010\Projects\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.csproj.GenerateResource.Cache
+C:\Users\Juanjo\documents\visual studio 2010\Projects\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.Modificar.resources
+C:\Users\Luis David\Downloads\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.exe
+C:\Users\Luis David\Downloads\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.pdb
+C:\Users\Luis David\Downloads\WinAgenda\WinAgenda\bin\Debug\WinAgenda.exe
+C:\Users\Luis David\Downloads\WinAgenda\WinAgenda\bin\Debug\WinAgenda.pdb
+C:\Users\Luis David\Downloads\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.csprojResolveAssemblyReference.cache
+C:\Users\Luis David\Downloads\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.Form1.resources
+C:\Users\Luis David\Downloads\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.Modificar.resources
+C:\Users\Luis David\Downloads\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.Properties.Resources.resources
+C:\Users\Luis David\Downloads\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.csproj.GenerateResource.Cache
+C:\Users\Luis David\Desktop\WinAgenda\WinAgenda\bin\Debug\WinAgenda.exe
+C:\Users\Luis David\Desktop\WinAgenda\WinAgenda\bin\Debug\WinAgenda.pdb
+C:\Users\Luis David\Desktop\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.csprojResolveAssemblyReference.cache
+C:\Users\Luis David\Desktop\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.Form1.resources
+C:\Users\Luis David\Desktop\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.Modificar.resources
+C:\Users\Luis David\Desktop\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.Properties.Resources.resources
+C:\Users\Luis David\Desktop\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.csproj.GenerateResource.Cache
+C:\Users\Luis David\Desktop\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.exe
+C:\Users\Luis David\Desktop\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.pdb
+C:\Users\Luis David\Desktop\para practivar el login\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.exe
+C:\Users\Luis David\Desktop\para practivar el login\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.pdb
+C:\Users\Luis David\Desktop\para practivar el login\WinAgenda\WinAgenda\bin\Debug\WinAgenda.exe
+C:\Users\Luis David\Desktop\para practivar el login\WinAgenda\WinAgenda\bin\Debug\WinAgenda.pdb
+C:\Users\Luis David\Desktop\para practivar el login\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.csprojResolveAssemblyReference.cache
+C:\Users\Luis David\Desktop\para practivar el login\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.Form1.resources
+C:\Users\Luis David\Desktop\para practivar el login\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.Modificar.resources
+C:\Users\Luis David\Desktop\para practivar el login\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.Properties.Resources.resources
+C:\Users\Luis David\Desktop\para practivar el login\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.csproj.GenerateResource.Cache
+C:\Users\Luis David\Desktop\para practivar el login\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.Login.resources
+C:\Users\Luis David\Desktop\para practicar el login\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.exe
+C:\Users\Luis David\Desktop\para practicar el login\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.pdb
+C:\Users\Luis David\Desktop\para practicar el login\WinAgenda\WinAgenda\bin\Debug\WinAgenda.exe
+C:\Users\Luis David\Desktop\para practicar el login\WinAgenda\WinAgenda\bin\Debug\WinAgenda.pdb
+C:\Users\Luis David\Desktop\para practicar el login\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.csprojResolveAssemblyReference.cache
+C:\Users\Luis David\Desktop\para practicar el login\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.Form1.resources
+C:\Users\Luis David\Desktop\para practicar el login\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.Login.resources
+C:\Users\Luis David\Desktop\para practicar el login\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.Modificar.resources
+C:\Users\Luis David\Desktop\para practicar el login\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.Properties.Resources.resources
+C:\Users\Luis David\Desktop\para practicar el login\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.csproj.GenerateResource.Cache
+D:\para practicar el login\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.exe
+D:\para practicar el login\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.pdb
+D:\para practicar el login\WinAgenda\WinAgenda\bin\Debug\WinAgenda.exe
+D:\para practicar el login\WinAgenda\WinAgenda\bin\Debug\WinAgenda.pdb
+D:\para practicar el login\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.csprojResolveAssemblyReference.cache
+D:\para practicar el login\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.Form1.resources
+D:\para practicar el login\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.Login.resources
+D:\para practicar el login\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.Modificar.resources
+D:\para practicar el login\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.Properties.Resources.resources
+D:\para practicar el login\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.csproj.GenerateResource.Cache
+D:\Agenda\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.exe
+D:\Agenda\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.pdb
+D:\Agenda\WinAgenda\WinAgenda\bin\Debug\WinAgenda.exe
+D:\Agenda\WinAgenda\WinAgenda\bin\Debug\WinAgenda.pdb
+D:\Agenda\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.csprojResolveAssemblyReference.cache
+D:\Agenda\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.Form1.resources
+D:\Agenda\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.Login.resources
+D:\Agenda\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.Modificar.resources
+D:\Agenda\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.Properties.Resources.resources
+D:\Agenda\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.csproj.GenerateResource.Cache
